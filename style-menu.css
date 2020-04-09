@@ -124,7 +124,7 @@ height:100%;
 			
 						
 			h1 {
-			font-family: 'DM Serif Text', serif;
+			font-family: monospace;
 			text-align: right;
             padding-right: 5%;
 			font-weight: bold;
