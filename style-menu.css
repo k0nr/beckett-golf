@@ -251,6 +251,8 @@ height:100%;
         background-color: #230399;
         width:100%;
         position:relative;
+        min-height: 110vh;
+
         
     }
    
@@ -268,6 +270,7 @@ height:100%;
     color: #00AA00;
     background-color: black;
     width: 100%;
+    min-height: 110vh;
 
     }
         
