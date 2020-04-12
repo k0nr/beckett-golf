@@ -214,7 +214,7 @@ height:100%;
     
     #headshots {
     background-color: #fcd40f;
-    height: 188px;
+    height: 120vh;
     text-align:right;
     }
     
@@ -227,7 +227,6 @@ height:100%;
     font-size: 40px;
     color: white;
     text-align: left;
-    padding-left: 10%;
     }
 			
     #playtitles {
@@ -237,6 +236,24 @@ height:100%;
 		text-align:left;
         font-size: 20px;
 		}
+		
+    #tasty {
+        height:120vh;
+        width:100%;
+        position: relative;
+        background-color: #fcc100;
+        font-size: 80px;
+        color: #c100fc;
+        text-align: center;
+    }
+        
+    #credits {
+        background-color: #230399;
+        height:120vh;
+        width:100%;
+        position:relative;
+        
+    }
 	
     #contact {
 	  position: fixed;
