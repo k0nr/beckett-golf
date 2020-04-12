@@ -3,8 +3,7 @@
             }
             
 			body {
-            background: url('images/kh_collage_dark.png'); 
-                background-attachment: fixed;
+            background-color: black;
             font-family: 'Libre Baskerville', serif;
 			color:white;
             cursor: url('images/cursor.cur'), default;
@@ -13,12 +12,12 @@
 			}
 		
 				a:link {
-			color:black;
+			color:#47f7b0;
             text-decoration: none;
 			}
 			
 			a:visited {
-			color:black;
+			color:#47f7b0;
 			}
 			
 			a:hover {
@@ -34,16 +33,15 @@
 		}
 		
 	#menu {
+	font-family: 'Share Tech Mono', monospace;
 	  position: fixed;
+    background-color:  #510051;
+    text-align:center;
 	bottom: 0;
 	right: 0;
-	width: 200px;
 	border: 10px solid black;
-	text-align:center;
-	background-color: #f7b947;
-	color: #99c1ff;
-    font-family: 'DM Serif Text', serif;
-    font-size:20px;
+    width: 200px;
+    font-size: 20px;
     }
     
     #credit {
@@ -51,7 +49,7 @@
     bottom: 0;
     right: 260px;
     text-align: center;
-    font-family: 'Libre Baskerville', monospace;
+    font-family: 'Share Tech Mono', monospace;
     font-size: 12px;
     background-color: black;
     color: white;
@@ -59,7 +57,7 @@
     }
     
     .title {
-        font-family: 'DM Serif Text', serif;
+        font-family: 'Share Tech Mono', monospace;
 		text-align: center;
 		font-weight: bold;
 		font-size: 28px;
