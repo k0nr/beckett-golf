@@ -249,11 +249,11 @@ height:100%;
         
     #credits {
         background-color: #230399;
-        height:120vh;
         width:100%;
         position:relative;
         
     }
+   
 	
     #contact {
 	  position: fixed;
@@ -264,7 +264,19 @@ height:100%;
     width: 200px;
     }
     
-    
+    #supported {
+    color: #00AA00;
+    background-color: black;
+    width: 100%;
+
+    }
+        
+    #sub-supported {
+    width:60%;
+    left:20%;
+    padding-top: 40vh;
+    position:relative;
+    }
    
     
     
