@@ -168,12 +168,12 @@ height:100%;
 			
 			
 			a:link {
-			color:black;
+			color:#47f7b0;
             text-decoration: none;
 			}
 			
 			a:visited {
-			color:#47f7b0;
+			color:#fcd40f;
 			}
 			
 			a:hover {
@@ -196,7 +196,7 @@ height:100%;
     
     #menu-wrapper {
     height:120vh;
-    width:100vw;
+    width:100%;
     background-color:black;
     }
     
@@ -214,10 +214,20 @@ height:100%;
     
     #headshots {
     background-color: #fcd40f;
-    height: 20vh;
+    height: 188px;
     text-align:right;
+    }
     
-
+    #clicktheplays {
+    background-color: #5B7C99;
+    height: 120px;
+    text-align: center;
+    color: #B9FF66;
+    width: 100%;
+    font-size: 40px;
+    color: white;
+    text-align: left;
+    padding-left: 10%;
     }
 			
     #playtitles {
